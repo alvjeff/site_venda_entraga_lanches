@@ -7,6 +7,8 @@
     background-attachment: fixed;
 }
 
+
+
 @media (max-width: 575.98px) { 
     .foto-principal{
         background: url(/img/lanches-sm.jpg) no-repeat;
